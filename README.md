@@ -11,6 +11,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img src="https://user-images.githubusercontent.com/105226619/167702184-82f16069-0722-4178-a934-248b2ba2f573.jpg" align="right" alt="dani-photo" height="150" style="border-radius:50px;" >
+
 </div>
   
  ##
